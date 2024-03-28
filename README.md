@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/28121979/28121979/github.gif" alt="Hi, I'm MOUSSA 👋 I'm a 🚀 French developer 🚀 I ❤️ Love This Game ❤️">
+  <img src="https://github.com/28121979/28121979/github.gif" alt="Hi, I'm Moussa 👋 I'm a 🚀 French developer 🚀 I ❤️ Love This Game ❤️">
 </p>
+
+<!--
 
 ---
 
