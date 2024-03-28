@@ -95,3 +95,9 @@
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=28121979)
 </div>
 
+<p align="center">
+  <img src="https://github.com/28121979/28121979/github.gif" alt="Hi, I'm Moussa 👋 I'm a 🚀 French developer 🚀 I ❤️ Love This Game ❤️">
+</p>
+
+<!--
+
